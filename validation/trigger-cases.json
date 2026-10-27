@@ -1,0 +1,22 @@
+[
+  {"id":1,"query":"I need a website for an independent architecture practice. We have photos and a short bio but no clear site plan. Help us decide what to build before coding.","expected":"website-design-workflow"},
+  {"id":2,"query":"Build a campaign landing page for our community theatre. The current draft looks like every AI startup page. I want a reviewable direction first.","expected":"website-design-workflow"},
+  {"id":3,"query":"Redo my consultant portfolio and case-study site. I have old articles and a few project screenshots. Work out the complete path from brief to browser review.","expected":"website-design-workflow"},
+  {"id":4,"query":"Resume the website plan. Journeys are approved; only the design board and review remain. Do not redo the discovery.","expected":"website-design-workflow"},
+  {"id":5,"query":"For this museum website, decide what a first-time visitor and a researcher need, where they enter, and which pages belong in navigation. No styling yet.","expected":"website-brief-and-journeys"},
+  {"id":6,"query":"Our photographer portfolio spec is just hero, gallery, about, contact. Rewrite it around visitor questions, proof and page purpose.","expected":"website-brief-and-journeys"},
+  {"id":7,"query":"Define the brief for a single exhibition page. Visitors arrive from a QR code and should book a visit. We do not need a whole new site.","expected":"website-brief-and-journeys"},
+  {"id":8,"query":"Help structure case studies on our studio website, including what claims need sources and what each page should help a buyer decide.","expected":"website-brief-and-journeys"},
+  {"id":9,"query":"The website brief is approved. Develop a visual-system board and exact DESIGN.md for an experimental arts publication. Keep our existing logo.","expected":"web-visual-direction"},
+  {"id":10,"query":"Our artist portfolio feels generic. Define an image crop grammar, typography, color roles and signature visual idea grounded in the work.","expected":"web-visual-direction"},
+  {"id":11,"query":"Convert this approved website art direction into reusable design tokens and rules for mobile, focus states and reduced motion.","expected":"web-visual-direction"},
+  {"id":12,"query":"Make a brand-system board showing how our restaurant website should look across its homepage, menu and mobile booking path. The visitor brief is already done.","expected":"web-visual-direction"},
+  {"id":13,"query":"Challenge the draft website specification before coding. Look for unsupported claims, vague visual decisions and contradictions. Do not redesign it.","expected":"website-design-review"},
+  {"id":14,"query":"Inspect the rendered portfolio on desktop and mobile against our approved board, DESIGN.md and page acceptance criteria. Capture the final states.","expected":"website-design-review"},
+  {"id":15,"query":"The build passes. Can you review the website visually? I can only provide the source code right now, no screenshots or running URL.","expected":"website-design-review"},
+  {"id":16,"query":"Review only the contact menu and form error states on our finished campaign site. Keep the approved colors and layout.","expected":"website-design-review"},
+  {"id":17,"query":"Fix a typo in the approved site's footer: replace commision with commission. Do not change any design.","expected":"none"},
+  {"id":18,"query":"Repair the backend webhook signature check for our website. The frontend and visual design are unchanged.","expected":"none"},
+  {"id":19,"query":"Design a logo and printed business cards for my ceramics studio. I am not working on a website.","expected":"none"},
+  {"id":20,"query":"Our website design is approved. Fix only the CSS selector causing a one-pixel border bug; no strategy, new visual direction or review package.","expected":"none"}
+]

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Website Brief and Journeys"
+  short_description: "Define visitor journeys and useful page briefs"
+  default_prompt: "Use $website-brief-and-journeys to clarify this website audience, journeys, proof, and page purposes."

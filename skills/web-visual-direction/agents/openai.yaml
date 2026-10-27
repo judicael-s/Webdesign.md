@@ -1,0 +1,4 @@
+interface:
+  display_name: "Web Visual Direction"
+  short_description: "Define a distinctive board and exact design rules"
+  default_prompt: "Use $web-visual-direction to develop a project-specific visual board and implementation-ready DESIGN.md."

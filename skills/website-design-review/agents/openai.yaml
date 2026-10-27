@@ -1,0 +1,4 @@
+interface:
+  display_name: "Website Design Review"
+  short_description: "Challenge specs and inspect rendered websites"
+  default_prompt: "Use $website-design-review to review this specification or rendered website against its agreed direction."

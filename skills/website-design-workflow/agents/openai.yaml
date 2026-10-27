@@ -1,0 +1,4 @@
+interface:
+  display_name: "Website Design Workflow"
+  short_description: "Plan distinctive sites before implementation"
+  default_prompt: "Use $website-design-workflow to prepare a reviewable website design package before coding."
